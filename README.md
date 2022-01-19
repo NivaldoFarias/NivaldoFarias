@@ -6,6 +6,7 @@
 
 <h3> 🐱‍🏍 &nbsp;My skills</h3>
 
+  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
