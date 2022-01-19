@@ -6,8 +6,11 @@
 
 <h3> 🐱‍🏍 &nbsp;My skills</h3>
 
-  ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-333333?style=flat&logo=css&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=D84012)
+  ![CSS](https://img.shields.io/badge/CSS-333333?&style=flat&logo=css3&logoColor=006EB4)
+  ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=68853D)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=EAD41C)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=2F72BC)
   ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
@@ -23,6 +26,7 @@
 
 <h3> 📜 &nbsp;Contact</h3> 
 
-[![Linkedin: Nivaldo Farias](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldofarias)](https://www.linkedin.com/in/nivaldofarias)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nivaldofarias@eng.ci.ufpb.br)](mailto:SEU-EMAIL)
+[![Linkedin: Nivaldo Farias](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldofarias)](https://www.linkedin.com/in/nivaldofarias)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:badivia.f@gmail.com)](mailto:badivia.f@gmail.com)
+[![Slack: Nivaldo Farias](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&link=https://driventurmas.slack.com/team/U02T6V2D8D8)](https://driventurmas.slack.com/team/U02T6V2D8D8)
          
