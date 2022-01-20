@@ -1,8 +1,8 @@
 <h3> ✒ &nbsp;About me </h3>
 
 - 🖥 &nbsp; Half-time student.  
-- 🎓 &nbsp; Computer Engineering Undergraduate at <a href="https://www.ufpb.br/">Federal University of Paraiba</a>.
-- 🔬 &nbsp; Currently in a Full-Stack Dev Bootcamp by <a href="driven.com.br">Driven Education</a>!
+- 🎓 &nbsp; Computer Engineering Undergraduate at <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
+- 🔬 &nbsp; Currently in a Full-Stack Web Dev Bootcamp by <a href="driven.com.br">Driven Education</a>
 
 <h3> 🐱‍🏍 &nbsp;My skills</h3>
 
