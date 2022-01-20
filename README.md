@@ -18,11 +18,13 @@
 
 <br/>
 
-<a href="https://github.com/NivaldoFarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&show_icons=true" />
-</a>
+[![nivaldo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&show_icons=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
+
+<a href="https://github.com/NivaldoFarias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true" />
+</a>
 
 <h3> 📜 &nbsp;Contact</h3> 
 
