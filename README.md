@@ -16,15 +16,10 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
-[![nivaldo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&show_icons=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-<a href="https://github.com/NivaldoFarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true" />
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&show_icons=true&layout=default" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true" height="160px" />
+</p>
 
 <h3> 📜 &nbsp;Contact</h3> 
 
