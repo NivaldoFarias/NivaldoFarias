@@ -17,8 +17,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&show_icons=true&layout=default" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&show_icons=true&layout=default" height="160px", width="400px" />
+<img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true" height="160px", width="350px" />
 </p>
 
 <h3> 📜 &nbsp;Contact</h3> 
