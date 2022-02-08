@@ -4,7 +4,7 @@
 - 🎓 &nbsp; Computer Engineering Undergraduate at <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
 - 🔬 &nbsp; Currently in a Full-Stack Web Dev Bootcamp by <a href="driven.com.br">Driven Education</a>
 
-<h3> 🪡 &nbsp;My skills</h3>
+<h3>🎨 &nbsp;My skills</h3>
 
   ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=D84012)
   ![SASS](https://img.shields.io/badge/SASS-333333?style=flat&logo=sass&logoColor=CC6699)
