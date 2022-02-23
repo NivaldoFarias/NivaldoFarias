@@ -1,3 +1,10 @@
+<p align="center">
+  <img width="400" src="https://github.com/NivaldoFarias/NivaldoFarias/blob/main/img/yes-i-do-sleep.gif">
+</p>
+<p align="center">
+  <img height="100" src="https://github.com/NivaldoFarias/NivaldoFarias/blob/main/img/sometimes.gif">
+</p>
+
 <h3> ✒ &nbsp;About me </h3>
 
 - 🖥 &nbsp; Part-time student.  
