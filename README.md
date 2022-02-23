@@ -28,9 +28,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="160px", width="350px" />
 </p>
 
-<h3> 📜 &nbsp;Contact</h3> 
+<h3> 💃 &nbsp;Social Media</h3> 
 
-[![Linkedin: Nivaldo Farias](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldofarias)](https://www.linkedin.com/in/nivaldofarias)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:badivia.f@gmail.com)](mailto:badivia.f@gmail.com)
-[![Slack: Nivaldo Farias](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&link=https://driventurmas.slack.com/team/U02T6V2D8D8)](https://driventurmas.slack.com/team/U02T6V2D8D8)
-         
+<a href="https://www.instagram.com/nivaldo.fg">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/badivia">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/NivaldoFarias">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>       
