@@ -5,7 +5,7 @@
   <img height="100" src="https://github.com/NivaldoFarias/NivaldoFarias/blob/main/img/sometimes.gif">
 </p>
 
-<h3> 🧩 &nbsp;About me </h3>
+<h3> 📌 &nbsp;About me </h3>
 
 - 🗿 &nbsp; Full-time student.  
 - 🎓 &nbsp; Computer Engineering Undergraduate at <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
