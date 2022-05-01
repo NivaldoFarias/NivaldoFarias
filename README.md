@@ -5,11 +5,10 @@
   <img height="100" src="https://github.com/NivaldoFarias/NivaldoFarias/blob/main/img/sometimes.gif">
 </p>
 
-<h3> 📌 &nbsp;About me</h3>
+<h3> 📌 &nbsp;Quick Overview</h3>
 
-- 🗿 &nbsp; Full-time student.  
-- 🎓 &nbsp; Computer Engineering Undergraduate at <a href="https://www.ufpb.br/">Federal University of Paraiba</a>
-- 🖥 &nbsp; Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
+  - 👨‍💻 &nbsp; Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
+  - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity
 
 ## 
 <h3>🎨 &nbsp;My skills</h3>
