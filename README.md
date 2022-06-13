@@ -38,9 +38,6 @@
   <a href="https://www.instagram.com/nivaldo.fg">
     <img alt="Nivaldo's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>&nbsp;
-  <a href="https://twitter.com/badivia">
-    <img alt="Nivaldo's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>&nbsp;
   <a href="https://www.linkedin.com/in/NivaldoFarias">
     <img alt="Nivaldo's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a> 
