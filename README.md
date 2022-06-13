@@ -9,6 +9,7 @@
 
   - 👨‍💻 &nbsp; Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
   - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity
+  - 🗂 &nbsp; Browse the <a href="https://github.com/stars/NivaldoFarias/lists/driven-projects">List of Projects</a> I have been working on 💕 
 
 ## 
 <h3>🎨 &nbsp;My skills</h3>
@@ -26,8 +27,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="350px" />
-<img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=72800" height="160px", width="350px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=72800" height="160px" />
 </p>
 
 ## 
@@ -36,9 +37,9 @@
 
 <p align="left">
   <a href="https://www.instagram.com/nivaldo.fg">
-    <img alt="Nivaldo's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    <img alt="Nivaldo's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/NivaldoFarias">
-    <img alt="Nivaldo's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Nivaldo's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a> 
 </p>
