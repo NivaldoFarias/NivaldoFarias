@@ -32,17 +32,3 @@
 </p>
 
 ## 
-
-<h3> 💃 &nbsp;Social Media</h3> 
-
-<p align="left">
-  <a href="https://www.instagram.com/nivaldo.fg">
-    <img alt="Linkedin logo" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>&nbsp;
-  <a href="https://www.reddit.com/user/Badivia">
-    <img alt="Reddit logo" width="40px" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" />
-  </a>&nbsp;
-  <a href="https://ko-fi.com/T6T2D8Z2J">
-    <img alt="ko-fi donation button"  src="https://ko-fi.com/img/githubbutton_sm.svg" />
-  </a>
-</p>
