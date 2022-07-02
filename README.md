@@ -29,8 +29,8 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&layout=default&langs_count=4&cache_seconds=76800" width="380px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=76800" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivaldo&theme=tokyonight&layout=default&langs_count=4" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=7600" width="380px" />
 </div>
 
 ## 
