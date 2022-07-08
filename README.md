@@ -29,8 +29,12 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NivaldoFarias&repo=typescript-project-template&theme=blueberry" height="130px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=blueberry&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=27600" height="130px"/>
+  <a href="https://github.com/NivaldoFarias/typescript-project-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NivaldoFarias&repo=typescript-project-template&theme=blueberry" height="130px" />
+  </a>
+  <a href="https://github.com/NivaldoFarias/">
+    <img src="https://github-readme-stats.vercel.app/api?username=NivaldoFarias&theme=blueberry&custom_title=Github Stats&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&cache_seconds=27600" height="130px"/>
+  </a>
 </div>
 
 ## 
