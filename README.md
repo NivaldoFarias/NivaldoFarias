@@ -41,6 +41,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nivaldofarias/">
-    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue" height="36px" />
+    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue" height="34px" />
   </a>
 </div>
