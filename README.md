@@ -7,7 +7,7 @@
 
 <h3> 📌 &nbsp;Quick Overview</h3>
 
-  - 👨‍💻 &nbsp; Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
+  - 👨‍💻 &nbsp; Full Stack Software Engineer
   - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity
   - 🗂 &nbsp; Browse the <a href="https://github.com/stars/NivaldoFarias/lists/driven-projects">list of Projects</a> I've worked on so far 💕 
 
