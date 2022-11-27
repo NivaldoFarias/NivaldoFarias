@@ -5,27 +5,31 @@
   <img height="100" src="https://github.com/NivaldoFarias/NivaldoFarias/blob/main/img/sometimes.gif">
 </div>
 
-<h3> 📌 &nbsp;Quick Overview</h3>
+## 📌 &nbsp;`$ whoami` 
 
-  - 👨‍💻 &nbsp; Full Stack Software Engineer
-  - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity
-  - 🗂 &nbsp; Browse the <a href="https://github.com/stars/NivaldoFarias/lists/driven-projects">list of Projects</a> I've worked on so far 💕 
+  - 👨‍💻 &nbsp; Nivaldo _— but since you're cool, you can call me by my nickname, Nivaldo. —_ Full Stack Software Engineer.
+  - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity _(basically, huge D&D nerd)_
+  - 🗂 &nbsp; If this is your first time here, check out some of the [Project]("https://github.com/stars/NivaldoFarias/lists/driven-projects") I havve worked on during [Driven's Bootcamp](https://www.driven.com.br/) 💕
+  - 🧶 &nbsp; And don't stop there! Feel free to reach me if you'd like, or just keep browsing away through the material! _there are some hidden gems here, I promise you_ 
 
-## 
-<h3>🎨 &nbsp;My skills</h3>
+## 🎨 &nbsp;Stacks I Love
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="60" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="55" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="55"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" />
+  &nbsp;
+  
 </div>
 
 </br>
