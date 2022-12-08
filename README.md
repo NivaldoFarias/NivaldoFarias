@@ -12,7 +12,7 @@
   - 🗂 &nbsp; If this is your first time here, check out some of the first [projects]("https://github.com/stars/NivaldoFarias/lists/driven-projects") I worked on during [Driven's Bootcamp](https://www.driven.com.br/) 💕
   - 🧶 &nbsp; And don't stop there! Feel free to reach me if you'd like, or just keep browsing away through the material! _there are some hidden gems here, I promise you_ 
 
-## 🎨 &nbsp;Stacks I Love
+## 🎨 &nbsp;Techs I Love
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="50"/>
