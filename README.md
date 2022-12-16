@@ -7,7 +7,7 @@
 
 ## 📌 &nbsp;`$ whoami` 
 
-  - 👨‍💻 &nbsp; Nivaldo _— but since you're cool, you can call me by my nickname, Nivaldo. —_ Full Stack Software Engineer.
+  - 👨‍💻 &nbsp; Nivaldo _— but since you're cool, you can call me by my nickname, Nivaldo —_ 
   - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity _(basically, huge D&D nerd)_
   - 🗂 &nbsp; If this is your first time here, check out some of the first [projects]("https://github.com/stars/NivaldoFarias/lists/driven-projects") I worked on during [Driven's Bootcamp](https://www.driven.com.br/) 💕
   - 🧶 &nbsp; And don't stop there! Feel free to reach me if you'd like, or just keep browsing away through the material! _there are some hidden gems here, I promise you_ 
