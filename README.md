@@ -50,6 +50,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue" height="33" />
   </a>
   &nbsp;
+  <a href="https://discord.com/users/345914746622574595">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="33" />
+  </a>
+  &nbsp;
   <a href="mailto:badivia.f@gmail.com?subject=[GitHub]%20Profile%20Referral">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="33" />
   </a>
