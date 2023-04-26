@@ -7,18 +7,17 @@
 
 ## 📌 &nbsp;`$ whoami` 
 
-  - 👨‍💻 &nbsp; Nivaldo, a Software Engineer currently at [Semantix](https://semantix.ai/).  
+  - 👨‍💻 &nbsp; Nivaldo, a Software Engineer currently at [Semantix](https://semantix.ai/) _(and on Gitlab)_.  
   - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity _(basically, huge D&D nerd)_
-  - 🗂 &nbsp; If this is your first time here, check out some of the first [projects]("https://github.com/stars/NivaldoFarias/lists/driven-projects") I worked on during [Driven's Bootcamp](https://www.driven.com.br/) 💕
-  - 🧶 &nbsp; And don't stop there! Feel free to reach me if you'd like, or just keep browsing away through the material! _there are some hidden gems here, I promise you_ 
+  - 🗂 &nbsp; If you're taking your first steps in software development, check out some of the [projects](https://github.com/stars/NivaldoFarias/lists/driven-projects) I worked on during a 9-month bootcamp. There you'll find all the resources I used while studying, which might give you just what you need to run your first `npm run dev`
 
-## 🎨 &nbsp;Tech & Tools I Love
+## 🎨 &nbsp;My go-tos
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" height="60" align="top" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="60" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="50"/>
