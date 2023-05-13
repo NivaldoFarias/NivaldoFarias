@@ -9,7 +9,7 @@
 
   - 👨‍💻 &nbsp; Nivaldo, a Software Engineer currently at [Semantix](https://semantix.ai/) _(and on Gitlab)_.  
   - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity _(basically, huge D&D nerd)_
-  - 🗂 &nbsp; If you're taking your first steps in software development, check out some of the [projects](https://github.com/stars/NivaldoFarias/lists/driven-projects) I worked on during a 9-month bootcamp. There you'll find all the resources I used while studying, which might give you just what you need to run your first `npm run dev`
+  - 🗂 &nbsp; If you're taking your first steps in software development, check out some of the [projects](https://github.com/stars/NivaldoFarias/lists/driven-projects) I worked on during a 9-month bootcamp. There you'll find all the resources I used while studying, which might give you the head start you were looking for in order to run your first `npm run dev`
 
 ## 🎨 &nbsp;My go-tos
 
