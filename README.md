@@ -7,10 +7,10 @@
 
 ## 📌 &nbsp;`$ whoami` 
 
-  - 👨‍💻 &nbsp; Nivaldo, a Software Engineer currently at [Semantix](https://semantix.ai/) _(and on Gitlab)_.  
+  - 👨‍💻 &nbsp; Software Engineer currently at [Semantix](https://semantix.ai/) _(and on Gitlab)_.  
   - 🦄 &nbsp; Deep-rooted D&D Nerd.
 
-## 🎨 &nbsp;My go-tos
+## 🎨 &nbsp;Info
 
 <div align="center">
   <a href="https://github.com/NivaldoFarias/typescript-project-template">
