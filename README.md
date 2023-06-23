@@ -8,34 +8,23 @@
 ## 📌 &nbsp;`$ whoami` 
 
   - 👨‍💻 &nbsp; Nivaldo, a Software Engineer currently at [Semantix](https://semantix.ai/) _(and on Gitlab)_.  
-  - 🦄 &nbsp; Deep-rooted D&D Dungeon Master with a passion for empowering creativity _(basically, huge D&D nerd)_
-  - 🗂 &nbsp; If you're taking your first steps in software development, check out some of the [projects](https://github.com/stars/NivaldoFarias/lists/driven-projects) I worked on during a 9-month bootcamp. There you'll find all the resources I used while studying, which might give you the head start you were looking for in order to run your first `npm run dev`
+  - 🦄 &nbsp; Deep-rooted D&D Nerd.
 
 ## 🎨 &nbsp;My go-tos
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" height="60" align="top" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="60" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="55"/>
-</div>
-
-</br>
-
-<div align="center">
   <a href="https://github.com/NivaldoFarias/typescript-project-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivaldofarias&repo=typescript-project-template&theme=blueberry&cache_seconds=14400" height="130" />
+    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nivaldofarias&repo=typescript-project-template&theme=blueberry&cache_seconds=14400"  />
+  </a>
+  <a href="https://github.com/NivaldoFarias/portfolio-template">
+    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nivaldofarias&repo=portfolio-template&theme=blueberry&cache_seconds=14400"  />
   </a>
   <a href="https://github.com/NivaldoFarias/">
-    <img src="https://github-readme-stats.vercel.app/api?username=nivaldofarias&theme=blueberry&custom_title=Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=14400" height="130"/>
+    <img 
+      align="center" 
+      height="130" 
+      src="https://github-readme-stats.vercel.app/api?username=nivaldofarias&theme=blueberry&custom_title=Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=14400&&rank_icon=github" 
+    />
   </a>
 </div>
 
