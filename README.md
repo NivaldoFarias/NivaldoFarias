@@ -10,7 +10,7 @@
   - 👨‍💻 &nbsp; Software Engineer currently at [Semantix](https://semantix.ai/) _(and on Gitlab)_.  
   - 🦄 &nbsp; Deep-rooted D&D Nerd.
 
-## 🎨 &nbsp;Info
+## ✨ &nbsp;Spotlight
 
 <div align="center">
   <a href="https://github.com/NivaldoFarias/typescript-project-template">
