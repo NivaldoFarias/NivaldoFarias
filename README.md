@@ -16,9 +16,6 @@
   <a href="https://github.com/NivaldoFarias/typescript-project-template">
     <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nivaldofarias&repo=typescript-project-template&theme=blueberry&cache_seconds=14400"  />
   </a>
-  <a href="https://github.com/NivaldoFarias/portfolio-template">
-    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nivaldofarias&repo=portfolio-template&theme=blueberry&cache_seconds=14400"  />
-  </a>
   <a href="https://github.com/NivaldoFarias/">
     <img 
       align="center" 
