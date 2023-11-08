@@ -7,8 +7,7 @@
 
 ## 📌 &nbsp;`$ whoami` 
 
-  - 👨‍💻 &nbsp; Software Engineer currently at [Semantix](https://semantix.ai/) 
-  - 🦄 &nbsp; Deep-rooted D&D Nerd.
+🦄 A Software Engineer and a Deep-rooted D&D Nerd.
 
 ## ✨ &nbsp;Spotlight
 
