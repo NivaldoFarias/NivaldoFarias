@@ -7,7 +7,7 @@
 
 ## 📌 &nbsp;`$ whoami` 
 
-🦄 A Software Engineer and a Deep-rooted D&D Nerd.
+🦄 A Software Engineer and a deep-rooted D&D Nerd.
 
 ## ✨ &nbsp;Spotlight
 
