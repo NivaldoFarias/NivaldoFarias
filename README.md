@@ -23,19 +23,3 @@
     />
   </a>
 </div>
-
-## 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nivaldofarias/">
-    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue" height="33" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/345914746622574595">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="33" />
-  </a>
-  &nbsp;
-  <a href="https://gitlab.com/NivaldoFarias">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=#DA4029" height="33" />
-  </a>
-</div>
